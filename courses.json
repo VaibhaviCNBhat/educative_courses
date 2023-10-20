@@ -768,6 +768,17 @@
     "difficulty": "intermediate",
     "module_number": 15,
     "certification": "paid"
+  },
+  {
+    "id": 134,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": " Learn to Code: Python for Absolute Beginners",
+    "link": "https://www.educative.io/courses/learn-to-code-python-for-absolute-beginners",
+    "difficulty": "beginners",
+    "module_number": 36,
+    "certification": "paid"
   }
+]
 ]
 
